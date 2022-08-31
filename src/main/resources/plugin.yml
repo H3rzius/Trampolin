@@ -1,0 +1,5 @@
+name: Trampolin
+version: '${project.version}'
+main: me.h3rzius.trampolin.Trampolin
+authors: [ H3rzius ]
+description: A new brand trampolin for minecraft servers
